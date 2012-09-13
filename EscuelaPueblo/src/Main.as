@@ -8,6 +8,7 @@ public class Main extends Sprite {
 
     public function Main() {
 
+
         var cuadro:CuadroVerde = new CuadroVerde();
         addChild(cuadro);
 
@@ -22,9 +23,11 @@ public class Main extends Sprite {
 
         // LOS CAMBIOS SON MIOS JODER!
 
-        // yo hasta la polla
+        // yo hasta fddd la polla
 
         // estoy hasta el papo
+
+        // sigo hasta la picha
 
     }
 }
