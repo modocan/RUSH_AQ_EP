@@ -20,6 +20,8 @@ public class Main extends Sprite {
         azul.x = this.stage.stageWidth - 100;
         addChild(azul);    */
 
+        // CAMBIOS
+
     }
 }
 }
