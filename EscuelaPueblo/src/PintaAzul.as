@@ -6,7 +6,7 @@
  * To change this template use File | Settings | File Templates.
  */
 package {
-import com.demonsters.debugger.MonsterDebugger;
+//import com.demonsters.debugger.MonsterDebugger;
 
 import flash.display.Sprite;
 import flash.events.Event;

@@ -11,14 +11,14 @@ public class Main extends Sprite {
         var cuadro:CuadroVerde = new CuadroVerde();
         addChild(cuadro);
 
-        var textField:TextField = new TextField();
+        /*var textField:TextField = new TextField();
         textField.text = "Hello, World";
         textField.x = cuadro.x + cuadro.width + 10;
         addChild(textField);
 
         var azul:PintaAzul = new PintaAzul();
         azul.x = this.stage.stageWidth - 100;
-        addChild(azul);
+        addChild(azul);    */
 
     }
 }
