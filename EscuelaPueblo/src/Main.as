@@ -20,9 +20,7 @@ public class Main extends Sprite {
         azul.x = this.stage.stageWidth - 100;
         addChild(azul);    */
 
-        // LOS CAMBIOS SON MIOS
-
-        // Me llamo Bárbara y soy una reputa!
+        // LOS CAMBIOS SON MIOS JODER!
 
     }
 }
